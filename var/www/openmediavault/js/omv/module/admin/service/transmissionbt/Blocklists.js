@@ -111,6 +111,6 @@ OMV.WorkspaceManager.registerPanel({
     id: 'blocklists',
     path: '/service/transmissionbt',
     text: _('Blocklists'),
-    position: 10,
+    position: 90,
     className: 'OMV.module.admin.service.transmissionbt.Blocklists'
 });
