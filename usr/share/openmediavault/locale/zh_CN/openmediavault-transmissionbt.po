@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # songming <by@songming.me>, 2013-2015
 # Wei Ding <dyw.net@gmail.com>, 2014
@@ -186,7 +186,7 @@ msgstr "快"
 msgid "Files"
 msgstr "文件"
 
-msgid "Files and locations"
+msgid "Files and Locations"
 msgstr "文件和位置"
 
 msgid "Forced"
@@ -268,9 +268,9 @@ msgid "Locations"
 msgstr "位置"
 
 msgid ""
-"Make sure the group 'debian-transmission' has read/write access to the "
+"Make sure the user 'debian-transmission' has read/write access to the "
 "shared folder."
-msgstr "确认'debian-transmission'组拥有共享文件夹的读/写权限。"
+msgstr "确保'debian-transmission'用户拥有共享文件夹的读/写权限。"
 
 msgid "May help get around some ISP filtering."
 msgstr "可能对突破ISP封杀BT有帮助。"
@@ -392,7 +392,7 @@ msgstr "列队"
 msgid "RPC/web interface settings"
 msgstr "RPC/web界面设置"
 
-msgid "Random Port on start."
+msgid "Random port on start."
 msgstr "启动时生成随机端口。"
 
 msgid "Random high"
@@ -558,8 +558,8 @@ msgstr ""
 msgid "Unknown"
 msgstr "未知"
 
-msgid "Update blocklists automatically."
-msgstr "自动更新黑名单。"
+msgid "Update blocklists automatically. This requires the RPC to be enabled."
+msgstr "自动更新黑名单，这需要启用RPC。"
 
 msgid "Upload"
 msgstr "上传"
