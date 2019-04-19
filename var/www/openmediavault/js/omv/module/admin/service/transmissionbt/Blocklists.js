@@ -63,10 +63,7 @@ Ext.define('OMV.module.admin.service.transmissionbt.Blocklists', {
                 name: 'blocklist-sync-enabled',
                 fieldLabel: _('Auto sync'),
                 checked: false,
-                plugins: [{
-                    ptype: 'fieldinfo',
-                    text: _('Update blocklists automatically. This requires the RPC to be enabled.')
-                }]
+                boxLabel: _('Update blocklists automatically. This requires the RPC to be enabled.')
             }, {
                 xtype: 'combo',
                 name: 'blocklist-sync-frequency',
